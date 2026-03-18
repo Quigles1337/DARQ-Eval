@@ -3,7 +3,7 @@ name = "darq-eval-context"
 version = "0.1.0"
 edition = "2021"
 description = "Reusable evaluation context library for DARQ Labs business decisions"
-license = "MIT"
+license-file = "LICENSE"
 repository = "https://github.com/Quigles1337/DARQ-Eval"
 
 [dependencies]

@@ -354,7 +354,8 @@ cargo test --all-targets
 
 ## License
 
-MIT
+Proprietary. Copyright (c) 2026 DARQ Labs LLC. All rights reserved.
+See [LICENSE](LICENSE) for full terms.
 
 ## Authors
 
